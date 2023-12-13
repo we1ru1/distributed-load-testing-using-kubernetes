@@ -59,7 +59,7 @@ $ kubectl scale --replicas=20 replicationcontrollers locust-worker
 ## 执行测试
 打开`http://nodeIP:30089`（nodePort模式，此处`nodeIP`可以设置为集群内任意正常节点的IP）
 
-0. img/1.png
+![locust-dashboard](images/locust-dashboard.png)
 **名词解析：**
 
 _Number of users to simulate：设置模拟的用户总数_
