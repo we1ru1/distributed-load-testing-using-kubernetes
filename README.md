@@ -1,5 +1,4 @@
-# distributed-load-testing-using-kubernetes
-Kubernetes的分布式负载测试
+# 基于locust的分布式负载均衡测试
 
 参考了[GoogleCloudPlatform/distributed-load-testing-using-kubernetes](https://github.com/GoogleCloudPlatform/distributed-load-testing-using-kubernetes/tree/master)和[rootsongjc
 /
