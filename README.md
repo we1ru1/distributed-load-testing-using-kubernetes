@@ -6,8 +6,8 @@ Kubernetes的分布式负载测试
 distributed-load-testing-using-kubernetes](https://github.com/rootsongjc/distributed-load-testing-using-kubernetes/tree/master)
 
 
-部署 Web 应用
-sample-webapp 目录下包含一个简单的 web 测试应用。我们将其构建为 docker 镜像，在 kubernetes 中运行。
+## 部署 Web 应用
+`sample-webapp` 目录下包含一个简单的 web 测试应用。我们将其构建为 docker 镜像，在 kubernetes 中运行。
 
 在 kubernetes 上部署 sample-webapp。
 
